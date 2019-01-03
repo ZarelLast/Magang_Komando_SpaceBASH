@@ -1,0 +1,16 @@
+body{
+	background-image:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/qAgrZII/leaf-with-drop-of-rain-water-with-green-background-hd_sgzv1yjbg_thumbnail-full01.png");
+	background-size:cover;
+	color:white;
+}
+.lebar{
+	width:10%;
+}
+.top{
+	position:fixed;
+	top:25%;
+	left:38%;
+}
+.counter{
+	position:relative;
+}
